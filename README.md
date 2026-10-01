@@ -1,6 +1,7 @@
 ## Hi, I'm Anindita 👋
 
-🎓 Recent graduate | 📊 Aspiring Data Scientist
+🎓 B.Tech in Information Technology | 📚 MBA Candidate
+🤖 Data Science | Machine Learning | AI | Business Analytics
 
 I'm passionate about turning raw data into actionable insights using machine learning. I enjoy working across the full ML lifecycle — from exploratory data analysis to building and evaluating predictive models.
 
